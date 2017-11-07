@@ -7,7 +7,7 @@ This tool is developed to provide an alternative approach for designing course o
 1) a Python script which was developed based on [EdX Open Learning XML(OLX) format](http://edx.readthedocs.io/projects/edx-open-learning-xml/en/latest/). It consists of 3 functions.
   * create course outline. 
   * add course contents. 
-  * upload video to YouTube. Detail available [here](https://github.com/TokyoTechX/youtube-batch-upload)
+  * upload videos to a YouTube channel. Detail available [here](https://github.com/TokyoTechX/youtube-batch-upload)
 2) an macro-excel file where information about course outline (Section, Subsection, and Unit), and course contents (text, quiz, and video) are contained. User requires to fill these information as a mean to design a course before running the code 
 3) source files of course contents (text file, image file, video files, subtitle file, excel file) 
 4) exmpty edX course instance exported from edx-studio 

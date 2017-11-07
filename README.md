@@ -14,7 +14,7 @@ This tool is developed to provide an alternative approach for designing course o
 
 In a nutshell, this tool creates the course offline according to course information input into an Excel sheet which can be uploaded to the Open edX Studio using the export and then the import function. For example there are four sheets in an Excel file: course outline, text content blocks, assessment items, and videos. The names of course sections are typed in the order they appear in the course outline, HTML version of the text blocks and Excel cells containing the text and assessments respectively are input into the separate sheets, and a list of video files are input into a sheet consisting of YouTube video links and a list of closed captions .srt files that will be imported into the Open edX Studio course instance. 
 
-Please see the [pptx](https://github.com/KeNopphon/edx-course-builder/blob/master/course_builder.pptx) or [pdf](https://github.com/TokyoTechX/edx-coursebuilder/blob/master/course_builder.pdf) file for further instruction.
+Please see the [pptx](https://github.com/TokyoTechX/edx-coursebuilder/blob/master/course_builder.pptx) or [pdf](https://github.com/TokyoTechX/edx-coursebuilder/blob/master/course_builder.pdf) file for further instruction.
 
 
 # dependencies

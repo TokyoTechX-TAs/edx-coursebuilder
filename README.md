@@ -1,4 +1,4 @@
-# edx-course-builder
+# edx-coursebuilder
 
 This tool is developed to provide an alternative approach for designing course outlines and adding course materials offline. The output (modified course) can be easily used to upload full-content course instance back to edx.studio with import function.    
 
